@@ -6,14 +6,14 @@
 #include <ESP32Servo.h>
 
 /****************************** WiFi Access Point *********************************************/
-#define WLAN_SSID       "iPhone"
-#define WLAN_PASS       "0509903439"
+#define WLAN_SSID       /wifi name
+#define WLAN_PASS       /wifi code
 
 /****************************** Adafruit.io defines  ********************************************/
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "DSEPD"
-#define AIO_KEY         "aio_zeeF068xFovhd8fJ1jsiNsIDy9aX"
+#define AIO_USERNAME    "UserName"
+#define AIO_KEY         "Key"
 //need to change for prersonal Adafruit keyInfo
 
 /************************** Adafruit IO stuff *********************************8******************/
